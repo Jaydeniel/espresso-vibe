@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "groups": [
   {
    "key": "macro",
@@ -571,7 +571,7 @@
   }
  ],
  "market": {
-  "collected": "2026-11-07",
+  "collected": "2026-11-08",
   "source_url": "https://data.ico.org/overview",
   "icip": {
    "value": "247.74",
